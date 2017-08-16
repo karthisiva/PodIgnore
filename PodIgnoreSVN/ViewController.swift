@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("branch switched")
+        print("You finished!")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
